@@ -38,7 +38,7 @@
       ]
     },
     "versionFirst": "4.7.2",
-    "uniqCompNum": 176,
+    "uniqCompNum": 178,
     "versionPublish": "4.7.6",
     "path": "@PROJECT_PATH@",
     "favicon": "",
@@ -47,7 +47,7 @@
     "sitemapSwitcherAuto": "on",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
-    "google-analytics": "<script type=\"text/javascript\">!function(d){var s=d.createElement('script');s.src='https://widget.indemand.ly/launcher.js';s.onload=function(){new Indemandly({\"domain\":\"vivek\"});};var c=d.getElementsByTagName('script')[0];c.parentNode.insertBefore(s,c);}(document)</script>",
+    "google-analytics": "<script type=\"text/javascript\">!function(d){var s=d.createElement('script');s.src='https://widget.indemand.ly/launcher.js';s.onload=function(){new Indemandly({\"domain\":\"vivek\"});};var c=d.getElementsByTagName('script')[0];c.parentNode.insertBefore(s,c);}(document)</script>\r\n\r\n<script id=\"mcjs\">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,\"script\",\"https://chimpstatic.com/mcjs-connected/js/users/0fea8c2429daad0a39e565406/beec3b7ba8a8a0bb344b3603a.js\");</script>",
     "cookiesAlert": "",
     "gdpr": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>",
     "screenshot": "screenshot.png",
