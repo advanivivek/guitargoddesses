@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Guitar Goddesses Launch 300518",
-    "currentPage": "index.html",
+    "currentPage": "about.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -47,7 +47,7 @@
     "sitemapSwitcherAuto": "on",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
-    "google-analytics": "<!-- RightMessage -->\r\n<script type=\"text/javascript\"> \r\n(function(p, a, n, d, o, b) {\r\n    o = n.createElement('script'); o.type = 'text/javascript'; o.async = true; o.src = 'https://tag.rightmessage.com/'+p+'.js';\r\n    b = n.getElementsByTagName('script')[0]; b.parentNode.insertBefore(o, b);\r\n    d = function(h, u, i) { var o = n.createElement('style'); o.id = 'rmcloak'+i; o.type = 'text/css';\r\n        o.appendChild(n.createTextNode('.rmcloak'+h+'{visibility:hidden}.rmcloak'+u+'{display:none}'));\r\n        b.parentNode.insertBefore(o, b); return o; }; o = d('', '-hidden', ''); d('-stay-invisible', '-stay-hidden', '-stay');\r\n    setTimeout(function() { o.parentNode && o.parentNode.removeChild(o); }, a);\r\n})('299306541', 2500, document);\r\n</script>",
+    "google-analytics": "<script id=\"mcjs\">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,\"script\",\"https://chimpstatic.com/mcjs-connected/js/users/0fea8c2429daad0a39e565406/184ab9241f24eb45962aefd97.js\");</script>",
     "cookiesAlert": "",
     "gdpr": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>",
     "screenshot": "screenshot.png",
@@ -1453,7 +1453,7 @@
         "meta_descr": "Read more about Guitar Goddesses Community's duties, vision, mission and ideas for the future.",
         "title": "About Us",
         "order": 2,
-        "header_custom": "<script type=\"text/javascript\">!function(d){var s=d.createElement('script');s.src='https://widget.indemand.ly/launcher.js';s.onload=function(){new Indemandly({\"domain\":\"vivek\"});};var c=d.getElementsByTagName('script')[0];c.parentNode.insertBefore(s,c);}(document)</script>\n\n<script id=\"mcjs\">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,\"script\",\"https://chimpstatic.com/mcjs-connected/js/users/0fea8c2429daad0a39e565406/beec3b7ba8a8a0bb344b3603a.js\");</script>"
+        "header_custom": "<script type=\"text/javascript\">!function(d){var s=d.createElement('script');s.src='https://widget.indemand.ly/launcher.js';s.onload=function(){new Indemandly({\"domain\":\"vivek\"});};var c=d.getElementsByTagName('script')[0];c.parentNode.insertBefore(s,c);}(document)</script>\n\n<script id=\"mcjs\">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,\"script\",\"https://chimpstatic.com/mcjs-connected/js/users/0fea8c2429daad0a39e565406/184ab9241f24eb45962aefd97.js\");</script>"
       },
       "components": [
         {
