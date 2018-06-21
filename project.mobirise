@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Guitar Goddesses Launch 300518",
-    "currentPage": "about.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -47,7 +47,7 @@
     "sitemapSwitcherAuto": "on",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
-    "google-analytics": "<script id=\"mcjs\">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,\"script\",\"https://chimpstatic.com/mcjs-connected/js/users/0fea8c2429daad0a39e565406/184ab9241f24eb45962aefd97.js\");</script>",
+    "google-analytics": "",
     "cookiesAlert": "",
     "gdpr": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>",
     "screenshot": "screenshot.png",
@@ -70,7 +70,7 @@
         "main": true,
         "title": "Guitar Goddesses Community",
         "meta_descr": "One global community of badass female guitarists!",
-        "header_custom": "<script type=\"text/javascript\">!function(d){var s=d.createElement('script');s.src='https://widget.indemand.ly/launcher.js';s.onload=function(){new Indemandly({\"domain\":\"vivek\"});};var c=d.getElementsByTagName('script')[0];c.parentNode.insertBefore(s,c);}(document)</script>\n\n<script id=\"mcjs\">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,\"script\",\"https://chimpstatic.com/mcjs-connected/js/users/0fea8c2429daad0a39e565406/beec3b7ba8a8a0bb344b3603a.js\");</script>",
+        "header_custom": "<script type=\"text/javascript\">!function(d){var s=d.createElement('script');s.src='https://widget.indemand.ly/launcher.js';s.onload=function(){new Indemandly({\"domain\":\"vivek\"});};var c=d.getElementsByTagName('script')[0];c.parentNode.insertBefore(s,c);}(document)</script>",
         "footer_custom": "",
         "html_before": ""
       },
@@ -1453,7 +1453,7 @@
         "meta_descr": "Read more about Guitar Goddesses Community's duties, vision, mission and ideas for the future.",
         "title": "About Us",
         "order": 2,
-        "header_custom": "<script type=\"text/javascript\">!function(d){var s=d.createElement('script');s.src='https://widget.indemand.ly/launcher.js';s.onload=function(){new Indemandly({\"domain\":\"vivek\"});};var c=d.getElementsByTagName('script')[0];c.parentNode.insertBefore(s,c);}(document)</script>\n\n<script id=\"mcjs\">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,\"script\",\"https://chimpstatic.com/mcjs-connected/js/users/0fea8c2429daad0a39e565406/184ab9241f24eb45962aefd97.js\");</script>"
+        "header_custom": "<script type=\"text/javascript\">!function(d){var s=d.createElement('script');s.src='https://widget.indemand.ly/launcher.js';s.onload=function(){new Indemandly({\"domain\":\"vivek\"});};var c=d.getElementsByTagName('script')[0];c.parentNode.insertBefore(s,c);}(document)</script>\n"
       },
       "components": [
         {
@@ -2458,7 +2458,7 @@
         "meta_descr": "Find out what is the GG Community's dream and how we plan to make it a reality with your involvement.",
         "title": "Dream",
         "order": 3,
-        "header_custom": "<script type=\"text/javascript\">!function(d){var s=d.createElement('script');s.src='https://widget.indemand.ly/launcher.js';s.onload=function(){new Indemandly({\"domain\":\"vivek\"});};var c=d.getElementsByTagName('script')[0];c.parentNode.insertBefore(s,c);}(document)</script>\n\n<script id=\"mcjs\">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,\"script\",\"https://chimpstatic.com/mcjs-connected/js/users/0fea8c2429daad0a39e565406/beec3b7ba8a8a0bb344b3603a.js\");</script>"
+        "header_custom": "<script type=\"text/javascript\">!function(d){var s=d.createElement('script');s.src='https://widget.indemand.ly/launcher.js';s.onload=function(){new Indemandly({\"domain\":\"vivek\"});};var c=d.getElementsByTagName('script')[0];c.parentNode.insertBefore(s,c);}(document)</script>\n"
       },
       "components": [
         {
@@ -3322,7 +3322,7 @@
         "meta_descr": "Here you can find some exceptionally talented female guitarists.",
         "title": "Discover Badass Female Guitarists",
         "order": 4,
-        "header_custom": "<script type=\"text/javascript\">!function(d){var s=d.createElement('script');s.src='https://widget.indemand.ly/launcher.js';s.onload=function(){new Indemandly({\"domain\":\"vivek\"});};var c=d.getElementsByTagName('script')[0];c.parentNode.insertBefore(s,c);}(document)</script>\n\n<script id=\"mcjs\">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,\"script\",\"https://chimpstatic.com/mcjs-connected/js/users/0fea8c2429daad0a39e565406/beec3b7ba8a8a0bb344b3603a.js\");</script>"
+        "header_custom": "<script type=\"text/javascript\">!function(d){var s=d.createElement('script');s.src='https://widget.indemand.ly/launcher.js';s.onload=function(){new Indemandly({\"domain\":\"vivek\"});};var c=d.getElementsByTagName('script')[0];c.parentNode.insertBefore(s,c);}(document)</script>\n"
       },
       "components": [
         {
@@ -4339,7 +4339,7 @@
         "meta_descr": "Read more about some of the most talentet and influencial people who are supporting our initiative and helping us spread the word globally.",
         "title": "People's Network",
         "order": 5,
-        "header_custom": "<script type=\"text/javascript\">!function(d){var s=d.createElement('script');s.src='https://widget.indemand.ly/launcher.js';s.onload=function(){new Indemandly({\"domain\":\"vivek\"});};var c=d.getElementsByTagName('script')[0];c.parentNode.insertBefore(s,c);}(document)</script>\n\n<script id=\"mcjs\">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,\"script\",\"https://chimpstatic.com/mcjs-connected/js/users/0fea8c2429daad0a39e565406/beec3b7ba8a8a0bb344b3603a.js\");</script>"
+        "header_custom": "<script type=\"text/javascript\">!function(d){var s=d.createElement('script');s.src='https://widget.indemand.ly/launcher.js';s.onload=function(){new Indemandly({\"domain\":\"vivek\"});};var c=d.getElementsByTagName('script')[0];c.parentNode.insertBefore(s,c);}(document)</script>\n"
       },
       "components": [
         {
@@ -5069,7 +5069,7 @@
         "meta_descr": "ROI that keeps growing! We are artists that understand the importance of sustainable business. When you support the GG community just once, you can receive returns for a lifetime. Read more to know how.",
         "title": "Value for Investors",
         "order": 6,
-        "header_custom": "<script type=\"text/javascript\">!function(d){var s=d.createElement('script');s.src='https://widget.indemand.ly/launcher.js';s.onload=function(){new Indemandly({\"domain\":\"vivek\"});};var c=d.getElementsByTagName('script')[0];c.parentNode.insertBefore(s,c);}(document)</script>\n\n<script id=\"mcjs\">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,\"script\",\"https://chimpstatic.com/mcjs-connected/js/users/0fea8c2429daad0a39e565406/beec3b7ba8a8a0bb344b3603a.js\");</script>"
+        "header_custom": "<script type=\"text/javascript\">!function(d){var s=d.createElement('script');s.src='https://widget.indemand.ly/launcher.js';s.onload=function(){new Indemandly({\"domain\":\"vivek\"});};var c=d.getElementsByTagName('script')[0];c.parentNode.insertBefore(s,c);}(document)</script>\n"
       },
       "components": [
         {
@@ -6071,7 +6071,7 @@
         "meta_descr": "Reach the Guitar Goddesses Community",
         "title": "Contact Us",
         "order": 8,
-        "header_custom": "<script type=\"text/javascript\">!function(d){var s=d.createElement('script');s.src='https://widget.indemand.ly/launcher.js';s.onload=function(){new Indemandly({\"domain\":\"vivek\"});};var c=d.getElementsByTagName('script')[0];c.parentNode.insertBefore(s,c);}(document)</script>\n\n<script id=\"mcjs\">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,\"script\",\"https://chimpstatic.com/mcjs-connected/js/users/0fea8c2429daad0a39e565406/beec3b7ba8a8a0bb344b3603a.js\");</script>"
+        "header_custom": "<script type=\"text/javascript\">!function(d){var s=d.createElement('script');s.src='https://widget.indemand.ly/launcher.js';s.onload=function(){new Indemandly({\"domain\":\"vivek\"});};var c=d.getElementsByTagName('script')[0];c.parentNode.insertBefore(s,c);}(document)</script>"
       },
       "components": [
         {
@@ -6657,7 +6657,7 @@
         "meta_descr": "30 city Euro Tour to annouce the arrival of Guitar Goddesses",
         "title": "Announcement Tour",
         "order": 7,
-        "header_custom": "<script type=\"text/javascript\">!function(d){var s=d.createElement('script');s.src='https://widget.indemand.ly/launcher.js';s.onload=function(){new Indemandly({\"domain\":\"vivek\"});};var c=d.getElementsByTagName('script')[0];c.parentNode.insertBefore(s,c);}(document)</script>\n\n<script id=\"mcjs\">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,\"script\",\"https://chimpstatic.com/mcjs-connected/js/users/0fea8c2429daad0a39e565406/beec3b7ba8a8a0bb344b3603a.js\");</script>"
+        "header_custom": "<script type=\"text/javascript\">!function(d){var s=d.createElement('script');s.src='https://widget.indemand.ly/launcher.js';s.onload=function(){new Indemandly({\"domain\":\"vivek\"});};var c=d.getElementsByTagName('script')[0];c.parentNode.insertBefore(s,c);}(document)</script>\n"
       },
       "components": [
         {
