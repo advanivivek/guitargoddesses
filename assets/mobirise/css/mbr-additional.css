@@ -4522,32 +4522,11 @@ body {
     margin: 0 0.5rem;
   }
 }
-.cid-qSkjfyOUYi {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
+#custom-html-51 {
+  /* Type valid CSS here */
 }
-.cid-qSkjfyOUYi .title {
-  margin-bottom: 2rem;
-}
-.cid-qSkjfyOUYi .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-qSkjfyOUYi a:not([href]):not([tabindex]) {
-  color: #fff;
-  border-radius: 3px;
-}
-.cid-qSkjfyOUYi a.btn-white:not([href]):not([tabindex]) {
-  color: #333;
-}
-.cid-qSkjfyOUYi .multi-horizontal {
-  flex-grow: 1;
-  -webkit-flex-grow: 1;
-  max-width: 100%;
-}
-.cid-qSkjfyOUYi .input-group-btn {
-  display: block;
-  text-align: center;
+#custom-html-51 .my-image {
+  width: 100%;
 }
 .cid-qSMVmyNlLE {
   padding-top: 30px;
