@@ -77,7 +77,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "MusiSHEans Community",
+        "title": "MusiSHEans",
         "meta_descr": "One global community of badass female guitarists!",
         "header_custom": "<script type=\"text/javascript\">!function(d){var s=d.createElement('script');s.src='https://widget.indemand.ly/launcher.js';s.onload=function(){new Indemandly({\"domain\":\"vivek\"});};var c=d.getElementsByTagName('script')[0];c.parentNode.insertBefore(s,c);}(document)</script>",
         "footer_custom": "",
@@ -1456,7 +1456,7 @@
     },
     "about.html": {
       "settings": {
-        "meta_descr": "Read more about Guitar Goddesses Community's duties, vision, mission and ideas for the future.",
+        "meta_descr": "Read more about MusiSHEans Community's duties, vision, mission and ideas for the future.",
         "title": "About Us",
         "order": 2,
         "header_custom": "<script type=\"text/javascript\">!function(d){var s=d.createElement('script');s.src='https://widget.indemand.ly/launcher.js';s.onload=function(){new Indemandly({\"domain\":\"vivek\"});};var c=d.getElementsByTagName('script')[0];c.parentNode.insertBefore(s,c);}(document)</script>\n"
@@ -5042,7 +5042,7 @@
     },
     "invest.html": {
       "settings": {
-        "meta_descr": "ROI that keeps growing! We are artists that understand the importance of sustainable business. When you support the GG community just once, you can receive returns for a lifetime. Read more to know how.",
+        "meta_descr": "ROI that keeps growing! We are artists that understand the importance of sustainable business. When you support the MusiSHEans Community just once, you can receive returns for a lifetime. Read more to know how.",
         "title": "Value for Investors",
         "order": 6,
         "header_custom": "<script type=\"text/javascript\">!function(d){var s=d.createElement('script');s.src='https://widget.indemand.ly/launcher.js';s.onload=function(){new Indemandly({\"domain\":\"vivek\"});};var c=d.getElementsByTagName('script')[0];c.parentNode.insertBefore(s,c);}(document)</script>\n"
@@ -6044,7 +6044,7 @@
     },
     "contact.html": {
       "settings": {
-        "meta_descr": "Reach the Guitar Goddesses Community",
+        "meta_descr": "Reach the MusiSHEans Community",
         "title": "Contact Us",
         "order": 8,
         "header_custom": "<script type=\"text/javascript\">!function(d){var s=d.createElement('script');s.src='https://widget.indemand.ly/launcher.js';s.onload=function(){new Indemandly({\"domain\":\"vivek\"});};var c=d.getElementsByTagName('script')[0];c.parentNode.insertBefore(s,c);}(document)</script>"
@@ -6630,7 +6630,7 @@
     },
     "concerts.html": {
       "settings": {
-        "meta_descr": "30 city Euro Tour to annouce the arrival of Guitar Goddesses",
+        "meta_descr": "MusiSHEans Festival & 2nd Guitar Tour 2021",
         "title": "Announcement Tour",
         "order": 7,
         "header_custom": "<script type=\"text/javascript\">!function(d){var s=d.createElement('script');s.src='https://widget.indemand.ly/launcher.js';s.onload=function(){new Indemandly({\"domain\":\"vivek\"});};var c=d.getElementsByTagName('script')[0];c.parentNode.insertBefore(s,c);}(document)</script>\n\n<script charset=\"utf-8\" src=\"https://widget.bandsintown.com/main.min.js\"></script>\n",
@@ -7124,44 +7124,6 @@
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
           "_cid": "qTFrUu0bwd",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "alias": false,
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "background-color": "@bgColor",
-            ".line": {
-              "background-color": "#ffffff",
-              "color": "#ffffff",
-              "align": "center",
-              "height": "2px",
-              "margin": "0 auto"
-            },
-            ".section-text": {
-              "padding": "2rem 0"
-            },
-            ".inner-container": {
-              "margin": "0 auto"
-            },
-            "@media (max-width: 768px)": {
-              ".inner-container": {
-                "width": "100% !important"
-              }
-            }
-          },
-          "_name": "content9",
-          "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"25\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            \n            <a class=\"bit-widget-initializer\" data-artist-name=\"musisheans\" data-display-logo=\"false\" data-display-track-button=\"false\" data-display-local-dates=\"false\" data-display-past-dates=\"false\" data-auto-style=\"false\" data-text-color=\"#000000\" data-link-color=\"#000000\" data-background-color=\"rgba (0,0,0,0)\" data-popup-background-color=\"#ffffff\" data-display-limit=\"5\" data-link-text-color=\"#FFFFFF\" data-display-lineup=\"true\" data-display-play-my-city=\"false\" data-separator-color=\"rgba(255, 255, 255, 0.5)\"></a>\n            \n            \n        </div>\n        </div>\n</section>",
-          "_anchor": "content9-5g",
-          "_isUserblock": true,
-          "_sourceTheme": "mobirise4",
-          "_cid": "rvshATXs4L",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [],
           "_protectedParams": [],
           "_global": false,
           "_once": false,
